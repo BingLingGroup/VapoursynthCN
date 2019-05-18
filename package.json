@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@vuepress/shared-utils": "^1.0.0-alpha.0",
+    "vuepress": "^0.14.11"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  }
+}
